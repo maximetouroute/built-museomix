@@ -11,11 +11,11 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("/workbox-v3.6.2/workbox-sw.js");
-workbox.setConfig({modulePathPrefix: "/workbox-v3.6.2"});
+importScripts("/built-museomix/workbox-v3.6.2/workbox-sw.js");
+workbox.setConfig({modulePathPrefix: "/built-museomix/workbox-v3.6.2"});
 
 importScripts(
-  "/precache-manifest.a3096125d5538d5916d2a47dc91a090a.js"
+  "/built-museomix/precache-manifest.ff60b273a23ed21e44974b7c13371f7c.js"
 );
 
 workbox.clientsClaim();
@@ -29,7 +29,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/index.html", {
+workbox.routing.registerNavigationRoute("/built-museomix/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
