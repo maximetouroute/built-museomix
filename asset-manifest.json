@@ -1,7 +1,7 @@
 {
   "main.css": "/built-museomix/static/css/main.92f5a205.chunk.css",
-  "main.js": "/built-museomix/static/js/main.f9e9322f.chunk.js",
-  "main.js.map": "/built-museomix/static/js/main.f9e9322f.chunk.js.map",
+  "main.js": "/built-museomix/static/js/main.81c7cbc2.chunk.js",
+  "main.js.map": "/built-museomix/static/js/main.81c7cbc2.chunk.js.map",
   "static/js/1.bbea0aa7.chunk.js": "/built-museomix/static/js/1.bbea0aa7.chunk.js",
   "static/js/1.bbea0aa7.chunk.js.map": "/built-museomix/static/js/1.bbea0aa7.chunk.js.map",
   "runtime~main.js": "/built-museomix/static/js/runtime~main.05a705b5.js",
@@ -21,6 +21,6 @@
   "static/media/bienvenue.mp3": "/built-museomix/static/media/bienvenue.73497b42.mp3",
   "static/css/main.92f5a205.chunk.css.map": "/built-museomix/static/css/main.92f5a205.chunk.css.map",
   "index.html": "/built-museomix/index.html",
-  "precache-manifest.8f6c5c89e6c1afa660164ae3dd46d0ad.js": "/built-museomix/precache-manifest.8f6c5c89e6c1afa660164ae3dd46d0ad.js",
+  "precache-manifest.d5409095d1589ff44446a3e5cfc0fdf5.js": "/built-museomix/precache-manifest.d5409095d1589ff44446a3e5cfc0fdf5.js",
   "service-worker.js": "/built-museomix/service-worker.js"
 }
