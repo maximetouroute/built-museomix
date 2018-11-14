@@ -15,7 +15,7 @@ importScripts("/built-museomix/workbox-v3.6.2/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/built-museomix/workbox-v3.6.2"});
 
 importScripts(
-  "/built-museomix/precache-manifest.c00725b5763feeef2800199207e36755.js"
+  "/built-museomix/precache-manifest.73b1084dac37706bcb5f7ed56ec5d83f.js"
 );
 
 workbox.clientsClaim();
